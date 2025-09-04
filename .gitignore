@@ -1,0 +1,20 @@
+# VSCode
+.vscode/
+
+.env
+
+#Sitemap
+sitemaps/
+
+#Cache
+*.py[cod]
+
+#Dataset
+dataset/
+
+#Files
+*.png
+*.jpg
+*.db
+
+./scrap.py
